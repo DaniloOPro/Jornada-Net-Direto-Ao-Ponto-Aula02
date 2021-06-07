@@ -1,1 +1,4 @@
-# Jornada-Net-Direto-Ao-Ponto-Aula02
+# Jornada Net Direto Ao Ponto
+
+[Instrutor - Luis Dev](https://www.luisdev.com.br/)
+
